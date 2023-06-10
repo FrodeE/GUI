@@ -1,0 +1,9 @@
+Poppy, Twisted_Fate, Zoe, Lux, Syndra, Velkoz, Wukong, Xerath - Hyperroll Sorcerers
+Caitlyn, Fiora, Jarvan, Xayah, Rakan, Shen, Ashe, Kassadin - Hyperroll Celestials
+Graves, Malphite, Blitzcrank, Ezreal, Vi, Chogath, Jinx, Miss_Fortune - Brawler Blasters
+Xayah, Shen, Ezreal, Kassadin, Kayle, Wukong, Miss_Fortune, Thresh - Chrono Blademasters
+Taliyah, Malphite
+15
+20
+80
+0
